@@ -1,0 +1,6 @@
+{
+  "name": "AstroFlow Daily Schedule & Leadership Energy Sync",
+  "description": "Daily schedule optimizer balancing leadership at work and parenting at home, powered by astrological synastry timing, energy management, and mindfulness prompts.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
